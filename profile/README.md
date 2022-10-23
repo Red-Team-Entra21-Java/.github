@@ -10,4 +10,4 @@ Another important point is related to the issue of printed documentation, thus e
 
 You can watch the full presentation in the video below.
 
-[![EMR Video](readme_assets/video_emr.png)](https://youtu.be/zAlA0TAjGdM)
+[![EMR Video](./readme_assets/video_emr.png)](https://youtu.be/zAlA0TAjGdM)
